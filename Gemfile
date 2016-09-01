@@ -5,7 +5,6 @@ gemspec
 gem "administrate-field-image",
   git: "https://github.com/thoughtbot/administrate-field-image.git",
   branch: "rails-5"
-gem "bourbon", "~> 4.2"
 gem "delayed_job_active_record"
 gem "high_voltage"
 gem "markdown-rails"
