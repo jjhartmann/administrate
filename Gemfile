@@ -8,6 +8,7 @@ gem "administrate-field-image",
 gem "delayed_job_active_record"
 gem "high_voltage"
 gem "markdown-rails"
+gem "bourbon"
 gem "pg"
 gem "redcarpet"
 gem "unicorn"
